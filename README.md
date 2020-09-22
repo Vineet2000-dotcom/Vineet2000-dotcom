@@ -3,7 +3,7 @@
 <p align="center">
   <br><br>
   <samp>
-    <img align="right" src="https://giphy.com/gifs/USV0ym3bVWQJJmNu3N/html5">
+    <img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 I'm Vineet Iyer currently a Third Year Computer Engineering student <a href="http://www.siesgst.edu.in/" target="_blank"></a> :school: and an aspiring Data Scientist :computer:. 
   </samp>  
 </p>
