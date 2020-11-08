@@ -31,4 +31,4 @@ while(alive):
 ```
 <img align="left" alt="Vineet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vineet2000-dotcom&show_icons=true&hide_border=true&color=purple&theme=tokyonight" />
   
-  <img align="left" alt="Vineet2000-dotcom's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2000-dotcom's&layout=compact&theme=tokyonight&card_width=445" />
+  <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2000-dotcom&layout=compact&theme=tokyonight&card_width=445" />
