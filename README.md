@@ -11,7 +11,6 @@ I'm Vineet Iyer currently a Third Year Computer Engineering student <a href="htt
 ### Skills  
 - Python
 - C
-- Java
 - Html
 - Css
 
