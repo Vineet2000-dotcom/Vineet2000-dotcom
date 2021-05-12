@@ -4,7 +4,7 @@
   <br><br>
   <samp>
     <img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-I'm Vineet Iyer currently a Third Year Computer Engineering student <a href="http://www.siesgst.edu.in/" target="_blank"></a>  :computer:. 
+I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst.edu.in/" target="_blank"></a>  :computer:. 
   </samp>  
 </p>
 
@@ -28,10 +28,7 @@ I'm Vineet Iyer currently a Third Year Computer Engineering student <a href="htt
 </h3>
 
 ```
-while(alive):
-    eat()
-    sleep()
-    code()
+
 ```
 <img align="left" alt="Vineet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vineet2000-dotcom&show_icons=true&hide_border=true&color=purple&theme=tokyonight" />
   
