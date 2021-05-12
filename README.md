@@ -4,15 +4,20 @@
   <br><br>
   <samp>
     <img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-I'm Vineet Iyer currently a Third Year Computer Engineering student <a href="http://www.siesgst.edu.in/" target="_blank"></a> :school: and an aspiring Data Scientist :computer:. 
+I'm Vineet Iyer currently a Third Year Computer Engineering student <a href="http://www.siesgst.edu.in/" target="_blank"></a>  :computer:. 
   </samp>  
 </p>
 
 ### Skills  
-- Python
+- PYTHON
 - C
-- Html
-- Css
+- JAVA
+- HTML
+- CSS
+- PHP
+- GIT
+- MACHINE LEARNING 
+- DATABASE MANAGEMENT SYSTEM
 
 
 <h3 align="center">
