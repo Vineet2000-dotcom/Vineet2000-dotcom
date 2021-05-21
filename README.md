@@ -30,6 +30,4 @@ I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst
 ```
 
 ```
-<img align="left" alt="Vineet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vineet2000-dotcom&show_icons=true&hide_border=true&color=purple&theme=tokyonight" />
-  
-  <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2000-dotcom&layout=compact&theme=tokyonight&card_width=445" />
+
