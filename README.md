@@ -45,13 +45,7 @@ I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst
     <img src="" alt="codechef" style="vertical-align:top; margin:35px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.hackerrank.com/vineetiyer306">
-    <img src="https://run.kaist.ac.kr/badges/codeforces/vineetanant" alt="Hackerrank" style="vertical-align:top; margin:35px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/vineetiyer306">
-   
-  </a>&nbsp;&nbsp;&nbsp;
+ 
 </p>
 
 </details>
