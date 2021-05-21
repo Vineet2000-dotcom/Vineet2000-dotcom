@@ -55,7 +55,7 @@ I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst
   <i>I am willing to collaborate on any Project.Lets get in touch!</i>
 
 <p align="center">
-<a href= "www.linkedin.com/in/vineet-iyer-3161988a"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://www.linkedin.com/in/vineet-iyer-3161988a/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://www.instagram.com/vineet.iyer21/"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
 <a href= "mailto: vineetanant@gmail.com"><img src="https://img.icons8.com/material-outlined/30/000000/gmail.png"/></a>
 <a href= "https://twitter.com/iyer_vineet"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
