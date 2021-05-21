@@ -42,11 +42,11 @@ I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst
 ## 📢 Competitive Programming Handles
 <p align="left">
     <a href="https://www.codechef.com/users/vineetiyer19">
-    <img src="https://cp-logo.vercel.app/codechef/vineetiyer19" alt="codechef" style="vertical-align:top; margin:35px">
+    <img src="" alt="codechef" style="vertical-align:top; margin:35px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://codeforces.com/profile/akshar09">
-    <img src="https://run.kaist.ac.kr/badges/codeforces/vineetanant" alt="codeforces" style="vertical-align:top; margin:35px">
+  <a href="https://www.hackerrank.com/vineetiyer306">
+    <img src="https://run.kaist.ac.kr/badges/codeforces/vineetanant" alt="Hackerrank" style="vertical-align:top; margin:35px">
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/vineetiyer306">
