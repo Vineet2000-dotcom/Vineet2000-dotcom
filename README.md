@@ -30,9 +30,9 @@ I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst
 ```
 
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aksharbarchha&show_icons=true&color=purple&theme=gotham) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vineet2000-dotcom&show_icons=true&color=purple&theme=gotham) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksharbarchha&layout=compact&theme=gotham&card_width=445)](https://github.com/aksharbarchha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksharbarchha&layout=compact&theme=gotham&card_width=445)](https://github.com/Vineet2000-dotcom/github-readme-stats)
 
 <details>
 <summary>
