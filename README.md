@@ -40,10 +40,11 @@ I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst
 </summary>
 
 ## 📢 Competitive Programming Handles
-<p align="left">
+<p align="center">
     <a href="https://www.codechef.com/users/vineetiyer19">
-    <img src="" alt="codechef" style="vertical-align:top; margin:35px">
+    <img src="https://cp-logo.vercel.app/codechef/vineetiyer19" alt="codechef" style="vertical-align:top; margin:35px">
   </a>&nbsp;&nbsp;&nbsp;
+  
   
  
 </p>
