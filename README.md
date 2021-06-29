@@ -37,7 +37,7 @@
 </p>
 
 ## 📢 Competitive Programming Handles
-<p align="left">
+<p >
    <a href="https://www.codechef.com/users/vineetiyer19">
     <img src="https://cp-logo.vercel.app/codechef/vineetiyer19" alt="codechef" style="vertical-align:top; margin:35px">
   </a>&nbsp;&nbsp;&nbsp;
@@ -50,7 +50,9 @@
     <img src="https://cp-logo.vercel.app/leetcode/viyer19" alt="leetcode" style="vertical-align:top; margin:35px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://codeforces.com/profile/vineetanant" align="right>
+  
+  
+  <a href="https://codeforces.com/profile/vineetanant">
     <img src="https://cp-logo.vercel.app/codeforces/vineetanant" alt="codeforces" style="vertical-align:top; margin:35px">
   </a>&nbsp;&nbsp;&nbsp;
   
