@@ -1,6 +1,6 @@
-# Hello Everyone! 👋
+# Hey there! I'm Vineet Iyer.! 👋
 
-<h1> Hey there! I'm Vineet Iyer.</h1>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
