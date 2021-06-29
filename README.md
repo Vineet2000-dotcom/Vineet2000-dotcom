@@ -1,41 +1,40 @@
 # Hello Everyone! 👋
 
+<h1> Hey there! I'm Vineet Iyer.</h1>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🎓 &nbsp; Currently a Final year CSE  Student at SIES GRADUATE SCHOOL OF TECHNOLOGY .
+- 🌱 &nbsp; Learning more about Data Science, Machine Learning and Artificial Intelligence.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+<ul>
+<li>Python</li>
+<li>C</li>
+<li>Java</li>
+<li>Machine Learning</li>
+<li>Database Management System</li>
+<li>Flask</li>
+<li>Web Development</li>
+<li>SQL</li>
+<li>GIT</li>
+</ul>
+
+<br/>
+
+<a href="https://github.com/Vineet2000-dotcom">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vineet2000-dotcom&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2000-dotcom&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
 <p align="center">
-  <br><br>
-  <samp>
-    <img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst.edu.in/" target="_blank"></a>  :computer:. 
-  </samp>  
+<a href="https://www.linkedin.com/in/vineet-iyer-3161988a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vineet%20iyer-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:vineetice118@gst.sies.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-:vineetice118@gst.sies.edu.in-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-### Skills  
-- PYTHON
-- C
-- JAVA
-- HTML
-- CSS
-- PHP
-- GIT
-- MACHINE LEARNING 
-- DATABASE MANAGEMENT SYSTEM
-
-
-<h3 align="center">
-  <samp>
-  <br><br>Contact me on <a href="mailto:vineetanant@gmail.com">Gmail</a> 
-   Phone number-8291919888
-  </samp>
-</h3>
-
-```
-
-```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vineet2000-dotcom&show_icons=true&color=red&theme=gotham) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2000-dotcom&layout=compact&theme=gotham&card_width=445)](https://github.com/Vineet2000-dotcom/github-readme-stats)
-
-
-
 
 ## 📢 Competitive Programming Handles
 <p align="left">
@@ -58,20 +57,4 @@ I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst
 </p>
 
 
-<hr>
-<p align="center">
-  <i>I am willing to collaborate on any Project.Lets get in touch!</i>
-
-<p align="center">
-<a href= "https://www.linkedin.com/in/vineet-iyer-3161988a/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://www.instagram.com/vineet.iyer21/"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
-<a href= "mailto: vineetanant@gmail.com"><img src="https://img.icons8.com/material-outlined/30/000000/gmail.png"/></a>
-<a href= "https://twitter.com/iyer_vineet"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-</p>
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Vineet2000-dotcom.Vineet2000-dotcom" alt="visitor badge"/>       
-</p>
-
-</p>
-
+⭐️ From [Vineet2000-dotcom](https://github.com/Vineet2000-dotcom)
