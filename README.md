@@ -51,16 +51,7 @@
   </a>&nbsp;&nbsp;&nbsp;
   
   
-  
-  <a href="https://codeforces.com/profile/vineetanant">
-    <img src="https://cp-logo.vercel.app/codeforces/vineetanant" alt="codeforces" style="vertical-align:right; margin:35px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  
-  
-
-  
-  
+ 
  
 </p>
 
