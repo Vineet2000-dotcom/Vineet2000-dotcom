@@ -50,9 +50,7 @@ I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst
   </a>&nbsp;&nbsp;&nbsp;
   
   
-  <a href="https://codeforces.com/profile/vineetanant">
-    <img src="https://cp-logo.vercel.app/codeforces/vineetanant" alt="codeforces" style="vertical-align:top; margin:35px">
-  </a>&nbsp;&nbsp;&nbsp;
+  
 
   
   
