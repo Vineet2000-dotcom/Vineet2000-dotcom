@@ -43,9 +43,7 @@ I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst
     <img src="https://cp-logo.vercel.app/codechef/vineetiyer19" alt="codechef" style="vertical-align:top; margin:35px">
   </a>&nbsp;&nbsp;&nbsp;
    
-  <a href="https://codeforces.com/profile/vineetanant">
-    <img src="https://cp-logo.vercel.app/codeforces/vineetanant" alt="codeforces" style="vertical-align:top; margin:35px">
-  </a>&nbsp;&nbsp;&nbsp;
+  
 
   <a href="https://leetcode.com/viyer19/">
     <img src="https://cp-logo.vercel.app/leetcode/viyer19" alt="leetcode" style="vertical-align:top; margin:35px">
