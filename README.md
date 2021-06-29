@@ -34,7 +34,7 @@ I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2000-dotcom&layout=compact&theme=gotham&card_width=445)](https://github.com/Vineet2000-dotcom/github-readme-stats)
 
-<details>
+
 
 
 ## 📢 Competitive Programming Handles
@@ -52,7 +52,7 @@ I'm Vineet Iyer Third Year CSE Undergrad at SIESGST. <a href="http://www.siesgst
  
 </p>
 
-</details>
+
 <hr>
 <p align="center">
   <i>I am willing to collaborate on any Project.Lets get in touch!</i>
