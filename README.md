@@ -54,6 +54,11 @@
  
  
 </p>
+<p>
+  <a href="https://codeforces.com/profile/vineetanant">
+    <img src="https://cp-logo.vercel.app/codeforces/vineetanant" alt="codeforces" style="vertical-align:top; margin:35px">
+  </a>&nbsp;&nbsp;&nbsp;
+</p>
 
 
 ⭐️ From [Vineet2000-dotcom](https://github.com/Vineet2000-dotcom)
