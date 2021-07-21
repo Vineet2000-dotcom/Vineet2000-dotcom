@@ -31,7 +31,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/vineet-iyer-3161988a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vineet%20iyer-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://wa.me/8291919888"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href="https://www.instagram.com/vineet.iyer21/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://github.com/Vineet2000-dotcom/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:vineetanant@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
