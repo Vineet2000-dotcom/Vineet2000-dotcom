@@ -10,11 +10,11 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <ul>
 <li>Python</li>
-<li>C</li>
+
 <li>Java</li>
 <li>Machine Learning</li>
 <li>Database Management System</li>
-<li>Flask</li>
+
 <li>Web Development</li>
 <li>SQL</li>
 <li>GIT</li>
