@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Currently a Final year CSE  Student at SIES GRADUATE SCHOOL OF TECHNOLOGY .
-- 🌱 &nbsp; Learning more about Data Science, Machine Learning and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Data Science, Machine Learning and Artificial Intelligence, Backend Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <ul>
