@@ -60,6 +60,21 @@
     <img src="https://cp-logo.vercel.app/codeforces/vineetanant" alt="codeforces" style="vertical-align:top; margin:35px">
   </a>&nbsp;&nbsp;&nbsp;
 </p>
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vineet2000-dotcom&column=7&hide=PullRequest"/>
+  </a>
+</div>
+
+
+#### Overall profile stats
+![](https://github-readme-stats.vercel.app/api?username=Vineet2000-dotcom&count_private=true&theme=merko&show_icons=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uakp98&layout=compact)
+
+<img src="https://gpvc.arturio.dev/Vineet2000-dotcom" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/uakp98?style=social"/> 
+
+
 
 
 ⭐️ From [Vineet2000-dotcom](https://github.com/Vineet2000-dotcom)
