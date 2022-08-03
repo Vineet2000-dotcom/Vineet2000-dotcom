@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Currently a Final year CSE  Student at SIES GRADUATE SCHOOL OF TECHNOLOGY .
+- 🎓 &nbsp; Currently working in Reliance Jio!
 - 🌱 &nbsp; Learning more about Data Science, Machine Learning, Artificial Intelligence, Backend Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
